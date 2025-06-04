@@ -11,7 +11,7 @@ The goal of this project is to perform exploratory data analysis (EDA) on the Ti
 ## 🧾 Dataset
 
 - **Source**: [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
-- **Files Used**: `train.csv`, `test.csv`
+- **Files Used**: `train.csv`
 
 ## 🔍 Key Questions
 
@@ -23,7 +23,7 @@ The goal of this project is to perform exploratory data analysis (EDA) on the Ti
 
 ## 🧪 EDA Process
 
-- **Data Cleaning**: Handling missing values (Age, Cabin, Embarked)
+- **Data Cleaning**: Handling missing values (Age, Cabin)
 - **Feature Engineering**: Creating new features (e.g., Title from Name)
 - **Visualization**: Using `matplotlib` and `seaborn` to visualize trends
 - **Statistical Analysis**: Correlation analysis and group-based survival rates
